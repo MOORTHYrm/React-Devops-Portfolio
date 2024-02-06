@@ -9,7 +9,7 @@ const Experience = () => {
       <h2>Skills</h2>
       <div className="container experience__container">
         <div className="experience__frontend">
-          <h3>Front-end Development</h3>
+          <h3>React | Aws Devops Engineer</h3>
           <div className="experience__content">
           <article className="experience__details">
               <BsFillPatchCheckFill className="experience__details-icon" />
@@ -29,24 +29,69 @@ const Experience = () => {
             </article>
             <article className="experience__details">
               <BsFillPatchCheckFill className="experience__details-icon" />
-              <h4>Next Js</h4>
+              <h4>Aws Devops</h4>
             </article>
             <article className="experience__details">
               <BsFillPatchCheckFill className="experience__details-icon" />
-              <h4>SASS/SCSS</h4>
+              <h4>Php</h4>
             </article>
             <article className="experience__details">
               <BsFillPatchCheckFill className="experience__details-icon" />
-              <h4>Tailwind</h4>
+              <h4>kubernetes</h4>
             </article>
             <article className="experience__details">
               <BsFillPatchCheckFill className="experience__details-icon" />
-              <h4>Typescript</h4>
+              <h4>Wordpress</h4>
+            </article>
+            <article className="experience__details">
+              <BsFillPatchCheckFill className="experience__details-icon" />
+              <h4>Jenkins</h4>
+            </article>
+            <article className="experience__details">
+              <BsFillPatchCheckFill className="experience__details-icon" />
+              <h4>Git</h4>
+            </article>
+            <article className="experience__details">
+              <BsFillPatchCheckFill className="experience__details-icon" />
+              <h4>Github</h4>
+            </article>
+            <article className="experience__details">
+              <BsFillPatchCheckFill className="experience__details-icon" />
+              <h4>Docker</h4>
+            </article>
+            <article className="experience__details">
+              <BsFillPatchCheckFill className="experience__details-icon" />
+              <h4>Sonarqube</h4>
+            </article>
+            <article className="experience__details">
+              <BsFillPatchCheckFill className="experience__details-icon" />
+              <h4>Python</h4>
+            </article>
+            <article className="experience__details">
+              <BsFillPatchCheckFill className="experience__details-icon" />
+              <h4>Prometheus</h4>
+            </article>
+            <article className="experience__details">
+              <BsFillPatchCheckFill className="experience__details-icon" />
+              <h4>Maven</h4>
+            </article>
+            <article className="experience__details">
+              <BsFillPatchCheckFill className="experience__details-icon" />
+              <h4>Terraform</h4>
+            </article>
+            <article className="experience__details">
+              <BsFillPatchCheckFill className="experience__details-icon" />
+              <h4>Bash Script</h4>
             </article>
           </div>
         </div>
       </div>
     </section>
+
+
+
+
+    
   )
 }
 

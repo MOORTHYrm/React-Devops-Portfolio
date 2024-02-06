@@ -3,7 +3,7 @@ import "./intro.css";
 import { FaAward } from "react-icons/fa";
 import React from "react";
 import { VscFolderLibrary } from "react-icons/vsc";
-import img from '../../assets/Me.png'
+import img from '../../assets/Moorthy.png'
 
 // import ME from '../../assets/Rasif Tagizade image.jpg';
 
@@ -16,7 +16,7 @@ const Intro = () => {
       <div className="container about__container">
         <div className="about__me">
           <div className="about__me-image">
-            <img src={img} alt="Rasif Taghizade" />
+            <img src={img} alt="Moorthy Rm" />
           </div>
         </div>
         <div className="about__content">
@@ -24,7 +24,7 @@ const Intro = () => {
             <article className="about__card">
               <FaAward className="about__icon" />
               <h5>Experience</h5>
-              <small>1.5 year</small>
+              <small>3+ year</small>
             </article>
             <article className="about__card">
               <VscFolderLibrary className="about__icon" />
@@ -33,14 +33,12 @@ const Intro = () => {
             </article>
           </div>
           <p>
-            1+ years experienced Front End Developer with hands-on experience in
-            identifying web-based user interactions along with designing and
-            implementing highly-responsive user interface components by
-            deploying React concepts. Proficient in translating designs and
-            wireframes into high-quality code, and writing application interface
-            code via JavaScript and React JS workflows. Adept at monitoring and
-            maintaining frontend performance and troubleshooting and debugging
-            the same to bolster overall performance.
+        
+          Experienced Web and Python developer with a strong foundation in web development and 
+          Python programming. Recently completed AWS certification, demonstrating a commitment to
+           staying current in cloud technologies. Possesses expertise in AWS, enhancing capabilities
+            in scalable and reliable cloud solutions. Ready to leverage acquired skills and 
+            certification to contribute effectively in dynamic development environments.
           </p>
           <a href="#contact" className="btn btn-primary">
             Let's Talk
