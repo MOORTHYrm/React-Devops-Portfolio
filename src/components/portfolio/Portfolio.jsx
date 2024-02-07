@@ -42,10 +42,10 @@ const Portfolio = () => {
     },
     {
       id: 4,
-      title: "MantraGoldCoatings Wordpress E-commerce",
+      title: "MantraGoldCoatings",
       img: IMG3,
       description:
-        "MatraGoldCoatings: Transform your WordPress site into a stunning ecommerce platform.",
+        " Transform your WordPress site into a stunning ecommerce platform.",
       technologies: "Wordpress | php | JavaScript | Mysql",
       link: "https://mantragoldcoatings.com/",
       github: "https://mantragoldcoatings.com/",
