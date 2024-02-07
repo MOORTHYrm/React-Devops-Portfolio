@@ -2,7 +2,7 @@ import "./portfolio.css";
 
 import IMG1 from "../../assets/Moorthy_portfolio.jpg";
 import IMG2 from "../../assets/RubyCode Blog Project.jpg";
-import IMG3 from "../../assets/Startup Agency Project.jpg";
+import IMG3 from "../../assets/mantra.png";
 import IMG4 from "../../assets/Covid-19 Project.jpg";
 import IMG5 from "../../assets/Terraform.png";
 import IMG6 from "../../assets/Jenkins.jpg";
@@ -47,8 +47,8 @@ const Portfolio = () => {
       description:
         "MatraGoldCoatings: Transform your WordPress site into a stunning ecommerce platform.",
       technologies: "Wordpress | php | JavaScript | Mysql",
-      link: "https://alpha-agency-project.vercel.app/",
-      github: "https://github.com/Rasif-Taghizada/Alpha-Agency-Project",
+      link: "https://mantragoldcoatings.com/",
+      github: "https://mantragoldcoatings.com/",
     },
     {
       id: 5,
